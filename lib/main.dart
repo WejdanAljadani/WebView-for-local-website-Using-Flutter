@@ -19,7 +19,7 @@ class ControlPanel extends StatelessWidget {
       ),
 
       body: WebView(
-        initialUrl: "http://192.168.8.104/task2/ControlPanel.php",
+        initialUrl: "localhost/task2/ControlPanel.php",
       ),
     );
   }
